@@ -1,0 +1,11 @@
+[project]
+name = "mojograd"
+version = "0.1.0"
+description = "Add a short description here"
+authors = ["= <=>"]
+channels = ["conda-forge", "https://conda.modular.com/max"]
+platforms = ["osx-arm64"]
+
+[tasks]
+
+[dependencies]
